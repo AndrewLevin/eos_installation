@@ -2,4 +2,4 @@
 
 ## slc6
 
-1) Follow the instructions here https://cern.service-now.com/service-portal/article.do?n=KB0003846
+1) Follow the instructions here https://cern.service-now.com/service-portal?id=kb_article&n=KB0003846
